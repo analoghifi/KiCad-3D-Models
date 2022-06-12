@@ -8,3 +8,7 @@ To get a proper 3D view in KiCad just download all the 3D-Models (step and wrl v
 and then create a new environment variable in KiCad (under "Preferences" -> "Configure Paths" -> "Environment Variables") named "KICAD_USER_3DMODEL_DIR" and set it to this local path, where your stored all the 3D-Models from this repo.  
   
 the environment variable "KICAD_USER_3DMODEL_DIR" is referenced in all my KiCad projects (in the \*.kicad_pcb files) when using (my own) 3D models that are not standard KiCad 3D models...
+   
+----   
+   
+<img src="pics/configure_paths.png" />
