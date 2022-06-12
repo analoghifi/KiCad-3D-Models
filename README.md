@@ -11,4 +11,4 @@ the environment variable "KICAD_USER_3DMODEL_DIR" is referenced in all my KiCad 
    
 ----   
    
-<img src="pics/configure_paths.png" />
+<img alt="" src="pics/configure_paths.png" />
